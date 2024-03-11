@@ -1,0 +1,4 @@
+1. Wtyczka: Vision – Image Map Builder 1.7.3
+2. Import: Vision -> Add New -> W prawy górnym rogu przycisk Load As (Plik json z tej paczki)
+3. Grafikę musi Pan wybrać w: All Items -> Mapa -> Map image
+4. Shortcode dla mapy to: [vision id="1"]
